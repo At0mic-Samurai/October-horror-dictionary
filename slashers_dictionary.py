@@ -16,7 +16,7 @@ while flag == "yes": # Primary loop
 
     print(f"The killer of the movie {fav_movie.title()} is {movie_killers[fav_movie]}" if fav_movie in movie_killers else error_msg) # Use of ternary operators and accessing dictionary values to format the output
 
-    while True: # Inner validation
+    while True: # Inner validation loop
         flag = input("Wanna try again?(yes/no) ").strip().lower()
         if flag not in ["yes", "no"]:
             print(error_msg2)
