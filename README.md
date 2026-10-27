@@ -21,5 +21,7 @@ As a learning project, this script covers several fundamental Python concepts:
 3. Open your terminal and run:
    `python slashers_dictionary.py`
 
+Try to add more famous horror movies and their slashers on the dictionary, then see what happens!!
+
 ---
 *Created by At0mic-Samurai as a Python learning milestone.*
